@@ -1,0 +1,2 @@
+FROM evancui/angularbuild AS final
+RUN apt install -y git
